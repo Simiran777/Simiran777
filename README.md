@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/VqBk.gif">
+<img src="https://i.gifer.com/ZRKF.gif">
 
 <h1 align ="center"> Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
 
