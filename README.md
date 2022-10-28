@@ -1,3 +1,4 @@
+<img src="https://i.gifer.com/8u5b.gif" alt="Chaos"/>
 <h1 align ="center"> Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
 
 I am an electrical engineering graduate who loves to code and a **_web developer wannabe_**.<br>
