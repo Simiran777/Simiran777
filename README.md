@@ -1,4 +1,3 @@
-<img src="https://i.gifer.com/ZRKF.gif"></img>
 
 <h1 align ="center"> Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
 
@@ -19,6 +18,8 @@ My ambition is to build an innovative tech startup one day.<br>
 📄 **Know about me** https://www.linkedin.com/in/simiran-mohapatra/<br>
 💬 **Ask me about** Full Stack Development<br>
 ⚡  **Fun fact** I am a *Bharatnatyam Dancer*💃 who can play *Rabindra Sangeet on Guitar*🎸🎶 and I like to stay updated on what's happening around the world📰🗞. Also, I absolutely love anime!<br>
+
+<img src="https://i.gifer.com/AbF9.gif" alt="dancing"/>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simiran-mohapatra/)
