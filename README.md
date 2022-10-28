@@ -1,6 +1,6 @@
-### Hi, fellow Human👋🏻, I had once read somewhere that life is like a party, so whatever you do, feel or experience, the purpose is to get up, dress up, show up and dance your hearts out and that's all that I try to do. Welcome to my life!
+### Hi, fellow Human👋🏻, I had once read somewhere that life is a party, so whatever we do, feel or experience, the purpose is to get up, dress up, show up and dance our hearts out till our last breath and that's all that I try to do. Welcome to my life!
 
-<img src="https://i.gifer.com/AbF9.gif">
+<img src="https://i.gifer.com/AbF9.gif" alt="Dance Dance">
 
 <h1 align ="center"> Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
 
