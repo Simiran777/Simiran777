@@ -3,7 +3,7 @@
 <p><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web Development" width="500px" height="350px">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="300px" height="350px"></p><br>
 
-# Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !
+<h1 align="center">Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
 
 I am an electrical engineering graduate who loves to code and a **_web developer wannabe_**.<br>
 I love everything about tech. I aspire to explore and learn new trends & technologies to put my creativity to test.
