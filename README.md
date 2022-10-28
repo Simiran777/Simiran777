@@ -1,6 +1,6 @@
-<img align="left" width="500px" height="600px" src="https://media.giphy.com/media/RwuE1PEfhNKtq/giphy.gif" alt="welcome design"/>
-<img align="center" width="500px" heigth="250px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web development"/>
-<img align="center" width="500px" height="250px" src="https://media.giphy.com/media/Y7VSyIgPkYSxG/giphy.gif" alt="My Favourite quote"/>
+<img align="left" width="250px" height="600px" src="https://media.giphy.com/media/RwuE1PEfhNKtq/giphy.gif" alt="welcome design"/>
+<img align="center" width="300px" heigth="250px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web development"/>
+<img align="center" width="300px" height="250px" src="https://media.giphy.com/media/Y7VSyIgPkYSxG/giphy.gif" alt="My Favourite quote"/>
 
 <h1 align ="center"> Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
 
