@@ -43,5 +43,7 @@ My ambition is to build an innovative tech startup one day.<br>
 ![](https://github-profile-trophy.vercel.app/?username=Simiran987&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center"><img src="https://media.giphy.com/media/1n3LPr8tsptiIaFUhF/giphy.gif" alt="I'll do it" width="750px" height="350px"></p>
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Simiran987&icon=0&color=1)](https://visitcount.itsvg.in)
