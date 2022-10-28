@@ -1,6 +1,4 @@
 <img align="left" width="350px" height="500px" src="https://media.giphy.com/media/RwuE1PEfhNKtq/giphy.gif" alt="welcome design"/>
-<img align="center" width="400px" heigth="250px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web development"/>
-<img align="center" width="400px" height="250px" src="https://media.giphy.com/media/Y7VSyIgPkYSxG/giphy.gif" alt="My Favourite quote"/>
 
 <h1 align ="center"> Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
 
@@ -10,7 +8,6 @@ My ambition is to build an innovative tech startup one day.<br>
 **_Thus, in short, I am a passionate geek girl from India and definitely a future tech magnate._**
 
 # 💫 About Me:
-<p align="center"><img src="https://media.giphy.com/media/KmQlKxJCwYMBG/giphy.gif" alt="I am quite like Winnie-The Pooh" width="500px" height="310px"/></p>
 
 🔭 **I'm currently working on** creating website/app clones<br>
 
@@ -31,8 +28,6 @@ My ambition is to build an innovative tech startup one day.<br>
 💬 **Ask me about** Full Stack Development<br>
 
 ⚡  **Fun fact** I am a *Bharatnatyam Dancer*💃 who can play *Rabindra Sangeet on Guitar*🎸🎶 and I like to stay updated on what's happening around the world📰🗞. Also, I absolutely love anime!<br>
-
-<p align="center"><img align="center" src="https://media.giphy.com/media/3aJr6ausLWdry/giphy.gif" alt="Me being me" width="500px" height="310px"/></p>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/simiran-mohapatra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moleunderlips79) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simiran-mohapatra/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@simiran-mohapatra.medium.com) 
