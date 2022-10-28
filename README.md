@@ -1,9 +1,7 @@
 ### Hi, fellow Human👋🏻, I had once read somewhere that life is a party, so whatever we do, feel or experience, the purpose is to get up, dress up, show up and dance our hearts out till our last breath and that's all that I try to do. Welcome to my life!<br>
 
-<img src="https://media.giphy.com/media/l0JMrPWRQkTeg3jjO/giphy.gif" alt="Block" width="300px" height="600px">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web Development" width="400px" height="300px">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="400px" height="300px">
-<hr>
+<p><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web Development" width="600px" height="350px">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="400px" height="350px"></p><br>
 
 # Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !
 
@@ -11,6 +9,8 @@ I am an electrical engineering graduate who loves to code and a **_web developer
 I love everything about tech. I aspire to explore and learn new trends & technologies to put my creativity to test.
 My ambition is to build an innovative tech startup one day.<br>
 **_Thus, in short, I am a passionate geek girl from India and definitely a future tech magnate._**
+
+<p align="center"><img src="https://media.giphy.com/media/V2ZrZfHghzSNi/giphy.gif" alt="That's all Folks" width="750px" height="350px"></p>
 
 # 💫 About Me:
 
@@ -25,7 +25,7 @@ My ambition is to build an innovative tech startup one day.<br>
 💬 **Ask me about** Full Stack Development<br>
 ⚡  **Fun fact** I am a *Bharatnatyam Dancer*💃 who can play *Rabindra Sangeet on Guitar*🎸🎶 and I like to stay updated on what's happening around the world📰🗞. Also, I absolutely love anime!<br>
 
-<img src="https://i.gifer.com/AbF9.gif" alt="dancing"/>
+<p align="center"><img src="https://media.giphy.com/media/3og0IwXiJYUPo5PyFi/giphy.gif" alt="Won't Give Up" width="750px" height="350px"></p>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simiran-mohapatra/)
@@ -42,5 +42,6 @@ My ambition is to build an innovative tech startup one day.<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Simiran987&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
+<p align="center"><img src="https://media.giphy.com/media/1n3LPr8tsptiIaFUhF/giphy.gif" alt="I'll do it" width="750px" height="350px"></p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Simiran987&icon=0&color=1)](https://visitcount.itsvg.in)
