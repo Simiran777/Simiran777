@@ -1,4 +1,4 @@
-<img align="left" width="300px" height="600px" src="https://media.giphy.com/media/RwuE1PEfhNKtq/giphy.gif" alt="welcome design"/>
+<img align="left" width="350px" height="500px" src="https://media.giphy.com/media/RwuE1PEfhNKtq/giphy.gif" alt="welcome design"/>
 <img align="center" width="400px" heigth="250px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web development"/>
 <img align="center" width="400px" height="250px" src="https://media.giphy.com/media/Y7VSyIgPkYSxG/giphy.gif" alt="My Favourite quote"/>
 
