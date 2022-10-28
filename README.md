@@ -1,8 +1,11 @@
-### Hi, fellow Human👋🏻, I had once read somewhere that life is a party, so whatever we do, feel or experience, the purpose is to get up, dress up, show up and dance our hearts out till our last breath and that's all that I try to do. Welcome to my life!
+### Hi, fellow Human👋🏻, I had once read somewhere that life is a party, so whatever we do, feel or experience, the purpose is to get up, dress up, show up and dance our hearts out till our last breath and that's all that I try to do. Welcome to my life!<br>
 
-<img src="https://tenor.com/bAVRC.gif" alt="Coding">
+<img src="https://media.giphy.com/media/l0JMrPWRQkTeg3jjO/giphy.gif" alt="Block" width="300px" height="600px">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web Development" width="400px" height="300px">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="400px" height="300px">
+<hr>
 
-<h1 align ="center"> Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
+# Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !
 
 I am an electrical engineering graduate who loves to code and a **_web developer wannabe_**.<br>
 I love everything about tech. I aspire to explore and learn new trends & technologies to put my creativity to test.
