@@ -1,5 +1,3 @@
-<img align="center" width="300px" height="300px" src="https://media.giphy.com/media/RwuE1PEfhNKtq/giphy.gif" alt="welcome design"/>
-
 <h1 align ="center"> Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
 
 I am an electrical engineering graduate who loves to code and a **_web developer wannabe_**.<br>
@@ -34,11 +32,5 @@ My ambition is to build an innovative tech startup one day.<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Simiran987&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Simiran987&icon=0&color=1)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/siramoha)
