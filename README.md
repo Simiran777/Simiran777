@@ -1,8 +1,8 @@
-<img align="left" width="300px" height="300px" src="https://media.giphy.com/media/RwuE1PEfhNKtq/giphy.gif" alt="welcome design"/>
+<img align="center" width="300px" height="300px" src="https://media.giphy.com/media/RwuE1PEfhNKtq/giphy.gif" alt="welcome design"/>
 
 <h1 align ="center"> Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
 
-I am a **_web developer wannabe_**.<br>
+I am an electrical engineering graduate who loves to code and a **_web developer wannabe_**.<br>
 I love everything about tech. I aspire to explore and learn new trends & technologies to put my creativity to test.
 My ambition is to build an innovative tech startup one day.<br>
 **_Thus, in short, I am a passionate geek girl from India and definitely a future tech magnate._**
