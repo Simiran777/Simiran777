@@ -10,8 +10,6 @@ I love everything about tech. I aspire to explore and learn new trends & technol
 My ambition is to build an innovative tech startup one day.<br>
 **_Thus, in short, I am a passionate geek girl from India and definitely a future tech magnate._**
 
-<p align="center"><img src="https://media.giphy.com/media/V2ZrZfHghzSNi/giphy.gif" alt="That's all Folks" width="750px" height="350px"></p>
-
 # 💫 About Me:
 
 🔭 **I'm currently working on** creating website/app clones<br>
@@ -42,7 +40,7 @@ My ambition is to build an innovative tech startup one day.<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Simiran987&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center"><img src="https://media.giphy.com/media/1n3LPr8tsptiIaFUhF/giphy.gif" alt="I'll do it" width="750px" height="350px"></p>
+<p align="center"><img src="https://media.giphy.com/media/V2ZrZfHghzSNi/giphy.gif" alt="That's all Folks" width="750px" height="350px"></p>
 
 ---
 
