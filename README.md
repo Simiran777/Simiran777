@@ -39,7 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Simiran987&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center"><img src="https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif" alt="That's all Folks" width="750px" height="350px"></p>
+<p align="center"><img src="https://media.giphy.com/media/gwtaLLFaZ9dJLCfu3x/giphy.gif" alt="That's all Folks" width="750px" height="350px"></p>
 
 ---
 
