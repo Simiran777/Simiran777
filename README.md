@@ -1,27 +1,27 @@
-### Hi, fellow Human👋🏻, I had once read somewhere that life is a party, so whatever we do, feel or experience, the purpose is to get up, dress up, show up and dance our hearts out till our last breath and that's all that I try to do. Welcome to my life!<br>
-
-<p><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web Development" width="400px" height="350px">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="300px" height="350px"></p><br>
+<p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web Development" width="400px" height="350px">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="350px" height="350px"></p><br>
 
 <h1 align="center">Namaste! 🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
 
-I am an electrical engineering graduate who loves to code and a **_web developer wannabe_**.<br>
-I love everything about tech. I aspire to explore and learn new trends & technologies to put my creativity to test.
-My ambition is to build an innovative tech startup one day.<br>
+I am an electrical engineering⚡👩‍🔧 graduate who loves to code👩‍💻 and a **_web developer wannabe_**.<br>
+I love everything about *tech*💻🖱️. I aspire to explore and learn new *trends📈  & technologies*⚙️ to put my creativity to test.<br>
+My ambition is to build an *innovative tech startup* one day.<br>
 **_Thus, in short, I am a passionate geek girl from India and definitely a future tech magnate._**
+
+<p align="center"><img src="https://media.giphy.com/media/3og0ICmyySyzbmnxqE/giphy.gif" alt="celebration" width="750px" height="350px"></p>
 
 # 💫 About Me:
 
-🔭 **I'm currently working on** creating website/app clones<br>
-⭐ **Looking forward to starting my career** as a FrontEnd/ Full Stack/ Web/Software Developer<br>
-👯 **I’m looking to collaborate on** everything..literally all of it<br>
-🤝 **I’m looking for help with** Full-stack tech and resources to learn<br>
-🌱 **I’m currently learning** React<br>
-🦄 **What makes me different** - My willpower, cheerful nature & my strive to become my best version<br>
-📫 **How to reach me** simronmohapatra@gmail.com<br>
-📄 **Know about me** https://www.linkedin.com/in/simiran-mohapatra/<br>
-💬 **Ask me about** Full Stack Development<br>
-⚡  **Fun fact** I am a *Bharatnatyam Dancer*💃 who can play *Rabindra Sangeet on Guitar*🎸🎶 and I like to stay updated on what's happening around the world📰🗞. Also, I absolutely love anime!<br>
+🔭👷‍♀️ **I'm currently working on** creating website/app clones😊<br>
+⭐🤑 **Looking forward to starting my career** as a FrontEnd/ Full Stack/ Web/Software Developer👩‍💻 😁<br>
+👯🙋‍♀️ **I’m looking to collaborate on** everything..literally all of it😍 <br>
+🤝💁‍♀️ **I’m looking for help with** Full-stack tech and resources to learn🤔 <br>
+🌱🪴 **I’m currently learning** React<br>
+🦄😎 **What makes me different** - My willpower, cheerful nature & my strive to become my best version🫡<br>
+📧📨 **How to reach me** simronmohapatra@gmail.com<br>
+📄📖 **Know about me** https://www.linkedin.com/in/simiran-mohapatra/<br>
+💬🌠 **Ask me about** Full Stack Development<br>
+⚡🎉  **Fun fact** I am a *Bharatnatyam Dancer*💃 who can play *Rabindra Sangeet on Guitar*🎸🎶 and I like to stay updated on what's happening around the world📰🗞. Also, I absolutely love anime!<br>
 
 <p align="center"><img src="https://media.giphy.com/media/3og0IwXiJYUPo5PyFi/giphy.gif" alt="Won't Give Up" width="750px" height="350px"></p>
 
@@ -40,7 +40,7 @@ My ambition is to build an innovative tech startup one day.<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Simiran987&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center"><img src="https://media.giphy.com/media/V2ZrZfHghzSNi/giphy.gif" alt="That's all Folks" width="750px" height="350px"></p>
+<p align="center"><img src="https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif" alt="That's all Folks" width="750px" height="350px"></p>
 
 ---
 
