@@ -41,6 +41,10 @@
 
 <p align="center"><img src="https://media.giphy.com/media/gwtaLLFaZ9dJLCfu3x/giphy.gif" alt="That's all Folks" width="700px" height="350px"></p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Simiran987&icon=0&color=1)](https://visitcount.itsvg.in)
