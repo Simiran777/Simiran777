@@ -11,16 +11,16 @@
 <p align="center"><img src="https://media.giphy.com/media/3og0ICmyySyzbmnxqE/giphy.gif" alt="celebration" width="700px" height="350px"></p>
 
 # 💫 About Me:
-#### 🔭👷‍ **I'm currently working on** creating website/app clones😊<br>
-#### ⭐🤑 **Looking forward to starting my career** as a Front End/ Full Stack/ Web/ Software Developer👩‍💻 😁<br>
-#### 👯🙋‍♀️ **I’m looking to collaborate on** everything..literally all of it😍 <br>
-#### 🤝💁‍♀️ **I’m looking for help with** Full-stack tech and resources to learn🤔 <br>
-#### 🌱🍃**I’m currently learning** React<br>
-#### 🦄😎 **What makes me different** - My willpower, cheerful nature & my strive to become my best version🫡<br>
-#### 📧📨 **How to reach me** - simronmohapatra@gmail.com<br>
-#### 📄📖 **Know about me** - https://www.linkedin.com/in/simiran-mohapatra/<br>
-#### 💬🌠 **Ask me about** - Full Stack Development<br>
-#### ⚡🎉  **Fun fact** - I am a *Bharatnatyam Dancer*💃 who can play *Rabindra Sangeet on Guitar*🎸🎶 and I like to stay updated on what's happening around the world📰🗞. Also, I absolutely love anime!<br>
+#### 🔭👷‍ **I'm currently working on** _creating various projects  and website/app clones_ 😊<br>
+#### ⭐🤑 **Looking forward to starting my career** _as a Front End/ Full Stack/ Web/ Software Developer_ 👩‍💻😁<br>
+#### 👯🙋‍♀️ **I’m looking to collaborate on** _everything..literally all of it_ 😍 <br>
+#### 🤝💁‍♀️ **I’m looking for help with** _Full-stack tech and resources to learn_ 🤔 <br>
+#### 🌱🍃**I’m currently learning** _React and UX Design_ <br>
+#### 🦄😎 **What makes me different** - _My willpower, cheerful nature & my strive to become my best version_ 🫡<br>
+#### 📧📨 **How to reach me** - _simronmohapatra@gmail.com_<br>
+#### 📄📖 **Know about me** - _https://www.linkedin.com/in/simiran-mohapatra/_<br>
+#### 💬🌠 **Ask me about** - _Front End Development, Web Development and Full Stack Development_<br>
+#### ⚡🎉  **Fun fact** - _I am a *Bharatnatyam Dancer*💃 who can play *Rabindra Sangeet on Guitar*🎸🎶 and I like to stay updated on what's happening around the world📰🗞. Also, I absolutely love anime!_<br>
 
 <p align="center"><img src="https://media.giphy.com/media/3og0IwXiJYUPo5PyFi/giphy.gif" alt="Won't Give Up" width="700px" height="350px"></p>
 
