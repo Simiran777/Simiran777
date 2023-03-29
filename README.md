@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web Development" width="400px" height="350px">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="350px" height="350px"></p><br>
 
-<h1 align="center">🙏🏻, I'm SIMIRAN MOHAPATRA !</h1>
+<h1 align="center">"A future is not given to you. It is something you must take for yourself."🙏</h1>
 
 #### I love everything about *tech*💻🖱️. I aspire to explore and learn new *trends📈  & technologies*⚙️ to put my creativity to test.<br>
 #### I am looking for jobs as a **_Full Stack Developer / Software Engineer / Web Developer / Software Developer_**.<br>
