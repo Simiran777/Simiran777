@@ -4,7 +4,6 @@
 <h1 align="center">"A future is not given to you. It is something you must take for yourself."🙏</h1>
 
 #### I love everything about *tech*💻🖱️. I aspire to explore and learn new *trends📈  & technologies*⚙️ to put my creativity to test.<br>
-#### I am looking for jobs as a **_Full Stack Developer / Software Engineer / Web Developer / Software Developer_**.<br>
 
 # 💫 About Me:
 #### 👯🙋‍♀️ **I’m looking to collaborate on** interesting projects <br>
