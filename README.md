@@ -1,5 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Web Development" width="400px" height="350px">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="350px" height="350px"></p><br>
+<img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/c333a921c9e2c6ecfe8ad7d65ef2252f.gif)" alt="Coding" width="350px" height="350px">
 
 <h1 align="center">"Jack of all trades trying to be master of some."</h1>
 
