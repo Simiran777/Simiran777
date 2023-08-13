@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/c333a921c9e2c6ecfe8ad7d65ef2252f.gif" alt="Coding Girl" height="400px" position="center"></p>
+<p align="center"><img src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/c333a921c9e2c6ecfe8ad7d65ef2252f.gif" alt="Coding Girl" height="200px" position="center"></p>
 
 <h2 align="center">"Jack of all trades trying to be master of some."</h2>
 
