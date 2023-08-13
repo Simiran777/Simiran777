@@ -1,17 +1,15 @@
-<img src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/c333a921c9e2c6ecfe8ad7d65ef2252f.gif" alt="Coding Girl" align="center">
+<p align="center"><img src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/c333a921c9e2c6ecfe8ad7d65ef2252f.gif" alt="Coding Girl" height="400px" position="center"></p>
 
-<h1 align="center">"Jack of all trades trying to be master of some."</h1>
+<h2 align="center">"Jack of all trades trying to be master of some."</h2>
 
-#### I love everything about *tech*💻🖱️. I aspire to explore and learn new *trends📈  & technologies*⚙️ to put my creativity to test.<br>
-
-# 💫 About Me:
-#### 👯🙋‍♀️ **I’m looking to collaborate on** interesting projects <br>
-#### 🌱🍃**I’m currently learning** <em>Backend Development</em> <br>
-#### 🦄😎 **What makes me different** - _My strive to become my best version of myself_ 😊<br>
+### 💫 About Me:
+#### ⚡👩‍💻 I’m an Electrical Engineering graduate learning Computer Science.<br>
+#### 💃🎸 I'm a Nritya Visharad in Bharatanatyam and Sangeet Visharad in Rabindra Sangeet Guitar.</em> <br>
+#### ⭐🤩 My love to keep up with current affairs took me to the hotseat of KBC Season 9<br>
 
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simiran-mohapatra/)
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simiran777/)
 
 <!--
 !# 💻 Tech Stack:
