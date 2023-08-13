@@ -6,7 +6,7 @@
 #### ⚡👩‍💻 I’m an Electrical Engineering graduate learning Computer Science.<br>
 #### 💃🎸 I'm a Nritya Visharad in Bharatanatyam and Sangeet Visharad in Rabindra Sangeet Guitar.</em> <br>
 #### ⭐🤩 My love to keep up with current affairs took me to the hotseat of KBC Season 9<br>
-
+#### ⚡Fun fact : I have a lot more hobbies and interests<br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simiran777/)
