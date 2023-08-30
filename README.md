@@ -1,6 +1,6 @@
-<p align="center"><img src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/c333a921c9e2c6ecfe8ad7d65ef2252f.gif" alt="Coding Girl" height="200px" position="center"></p>
 
-<h2 align="center">"Jack of all trades trying to be master of some."</h2>
+
+<h2 align="center"> 🪷ଜୟ ଜଗନ୍ନାଥ🪷 </h2>
 
 ### 💫 About Me:
 #### ⚡👩‍💻 I’m an Electrical Engineering graduate learning Computer Science.<br>
@@ -27,3 +27,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Simiran987&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
+
+<p align="center"><img src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/c333a921c9e2c6ecfe8ad7d65ef2252f.gif" alt="Coding Girl" height="200px" position="center"></p>
