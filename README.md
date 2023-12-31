@@ -1,6 +1,6 @@
 
 
-<h2 align="center"> 🪷ଜୟ ଜଗନ୍ନାଥ🪷 </h2>
+<h2 align="center"> 🌷 ଜୟ ଜଗନ୍ନାଥ 🌷 </h2>
 
 ### 💫 About Me:
 #### ⚡👩‍💻 I’m an Electrical Engineering graduate learning Computer Science.<br>
