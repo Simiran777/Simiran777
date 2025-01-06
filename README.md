@@ -28,4 +28,4 @@
 [![](https://visitcount.itsvg.in/api?id=Simiran987&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
-<p align="center"><img src="[https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/c333a921c9e2c6ecfe8ad7d65ef2252f.gi](https://giphy.com/embed/HscDLzkO8EOTmgkhQP)" alt="Coding Girl" height="200px" position="center"></p>
+<p align="center"><img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" alt="Coding Girl" height="200px" position="center"></p>
