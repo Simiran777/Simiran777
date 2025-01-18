@@ -3,7 +3,7 @@
 <h2 align="center"> 🌷 ଜୟ ଜଗନ୍ନାଥ 🌷 </h2>
 
 ### 💫 About Me:
-#### ⚡👩‍💻 I’m an Electrical Engineer | SDE with a Passion for Quantitative Research | MBA (Finance) in Progress | Exploring the Intersection of Technology, Finance, and Data.<br>
+#### ⚡👩‍💻 I’m an Electrical Engineer | SDE with a Passion for Quantitative Research | MBA (Finance) in Progress.<br>
 #### 💃🎸 I'm a Nritya Visharad in Bharatanatyam and Sangeet Visharad in Rabindra Sangeet Guitar.<br>
 #### ⭐🤩 I love to keep up with current affairs, learn new stuff,enhance my knowledge and skills.<br>
 #### ⚡Fun fact : I love anime.<br>
