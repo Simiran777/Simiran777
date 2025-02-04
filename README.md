@@ -29,3 +29,5 @@
 -->
 
 <p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZxcWJyZmkzNjd5b212ZnJyMno3Zm5mdTZ5amFleXlrdG05bjl1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding Girl" height="200px" position="center"></p>
+
+<p><iframe title="New Dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=72f62b85-9d7c-403d-8053-ad4c2bd14bea&autoAuth=true&ctid=0e26255c-738d-4808-ae84-5d66960a8e75" frameborder="0" allowFullScreen="true"></iframe></p>
